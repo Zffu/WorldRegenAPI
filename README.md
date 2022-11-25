@@ -24,8 +24,6 @@ If you find bugs- report them as a GitHub issue. Thanks!
 ```
 
 
-If you're having trouble, please submit a GitHub issue. The self hosted Maven repo gig is new to me :]
+If you're having trouble, please submit a GitHub issue.
 
 See [LICENSE.md](LICENSE.md) for license information.
-
-It is unlikely you will encounter any issues with other versions given how the API operates under the hood (no NMS, packets, etc). However, as in all software, there will be issues and bugs. Open a GitHub issue if you find something that needs to be fixed.
