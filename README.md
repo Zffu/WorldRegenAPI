@@ -10,7 +10,7 @@ If you find bugs- report them as a GitHub issue. Thanks!
 ```xml
 <repository>
     <id>zffu-repo</id>
-    <url>https://maven.zffu.ml/</url>
+    <url>https://nexus.zffu.ml/maven/</url>
 </repository>
 ```
 
